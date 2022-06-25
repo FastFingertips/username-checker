@@ -34,6 +34,7 @@ sites = {
     "Twitch.tv":"https://www.twitch.tv/<username>/",
     "Gitlab":"https://gitlab.com/<username>/",
     "Steam":"https://steamcommunity.com/id/<username>/",
+    "Data.world":"https://data.world/<username>/",
     # Sites behaving inconsistently
     # "Netflix":"https://www.netflix.com/browse/my-list/<username>/",
     # "Spotify":"https://open.spotify.com/user/<username>/",
